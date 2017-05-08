@@ -1,0 +1,13 @@
+include # library
+include # string 
+   var integer
+   var min
+   var max
+   if       ...............................................................................
+   else     ...............................................................................
+  ;
+  if -9 integer +9 else
+  var char
+  var long
+  var short
+  
